@@ -9,7 +9,9 @@ Currently, two official plugins are available:
 
 - Overwview of the 3D Portofolio:
 https://github.com/LarsCirco/Portofolio/assets/122366416/22229fa1-be77-437f-9173-a748738d2b9c
+
 https://github.com/LarsCirco/Portofolio/assets/122366416/954565b3-7174-415a-a270-b1353b479540
+
 https://github.com/LarsCirco/Portofolio/assets/122366416/7e66a967-8baa-4a18-a0ba-7a6eb43ebdc6
 
 To use this App run npm install to get all the dependecies!
