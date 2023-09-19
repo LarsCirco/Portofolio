@@ -19,15 +19,3 @@ Npm run dev! To start it!
 
 sidenotes: change the info in constant/index.js!
 Mail is not setup yet you can add it in Contact.jsx and use EmailJS to set it up!
-
-
-
-
-
-
-
-
-
-
-
-- 
